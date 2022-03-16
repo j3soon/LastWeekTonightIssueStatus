@@ -2,7 +2,7 @@
 
 This is a work in progress note attempting to keep track on the current status of the issues mentioned in the show: [Last Week Tonight with John Oliver](https://www.youtube.com/channel/UC3XTzVzaHQEd30rQbuvCtTQ).
 
-Feel free to open an Issue or Pull Request to help maintain this note.
+Feel free to [open an Issue](https://github.com/j3soon/LastWeekTonightIssueStatus/issues) or [Pull Request](https://github.com/j3soon/LastWeekTonightIssueStatus/pulls) to help maintain this note.
 
 ## Season 1
 TODO
@@ -22,7 +22,12 @@ TODO
 TODO
 ## Season 9
 1. [Critical Race Theory](https://youtu.be/EICp1vGlh_U) (2022/02/20)  
-   TODO
+   What can we do?
+   > Should engage with CRT, not banning it.
+
+   Current Status:
+   > No news yet. (Last Updated: 2022/02/20)
+
 2. [Sex Work](https://youtu.be/-gd8yUptg0Q) (2022/02/27)  
    What can we do?
    > Adopt decriminalization as in New Zealand, i.e., removes all criminal penalties for the buying or selling of consensual sex.
@@ -33,7 +38,7 @@ TODO
    > Mentioned in the show: (2022/02/27)
    > - New York recently repealed its loitering law. ([source](https://edition.cnn.com/2021/02/02/us/new-york-trans-ban-prostitution-law-repeal/index.html))
    > - California seems poised to do the same. ([source](https://edition.cnn.com/2021/03/09/us/california-walking-while-trans-law/index.html))
-   > - Prosecutors have announced they won't pursue certain prostitution cases ([source](https://edition.cnn.com/2021/03/27/us/baltimore-prosecute-prostitution-drug-possession/index.html)) and will dismiss thousands of pending ones. ([source](https://www.npr.org/2021/04/21/989588072/a-relic-and-burden-manhattan-district-attorney-to-stop-prosecuting-prostitution)).
+   > - Prosecutors have announced they won't pursue certain prostitution cases ([source](https://edition.cnn.com/2021/03/27/us/baltimore-prosecute-prostitution-drug-possession/index.html)) and will dismiss thousands of pending ones. ([source](https://www.npr.org/2021/04/21/989588072/a-relic-and-burden-manhattan-district-attorney-to-stop-prosecuting-prostitution))
    >
    > No further news yet. (Last Updated: 2022/02/27)
 
