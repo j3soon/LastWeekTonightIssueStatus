@@ -1,6 +1,6 @@
 #  Last Week Tonight Issue Status
 
-This is a work in progress note attempting to keep track on the current status of the issues mentioned in the show: [Last Week Tonight with John Oliver](https://www.youtube.com/channel/UC3XTzVzaHQEd30rQbuvCtTQ).
+This is a work in progress note attempting to keep track on the current status of the issues mentioned in the show: [Last Week Tonight with John Oliver](https://www.youtube.com/channel/UC3XTzVzaHQEd30rQbuvCtTQ). Motivated by [this YouTube comment](https://www.youtube.com/watch?v=Ezv8sdTLxKo&lc=Ugw0oBosiC3Igf3cKqB4AaABAg).
 
 Feel free to [open an Issue](https://github.com/j3soon/LastWeekTonightIssueStatus/issues) or [Pull Request](https://github.com/j3soon/LastWeekTonightIssueStatus/pulls) to help maintain this note.
 
