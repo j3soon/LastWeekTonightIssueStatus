@@ -26,7 +26,7 @@ TODO
    > Should engage with CRT, not banning it.
 
    Current Status:
-   > No news yet. (Last Updated: 2022/02/20)
+   - No news yet. (Last Updated: 2022/02/20)
 
 2. [Sex Work](https://youtu.be/-gd8yUptg0Q) (2022/02/27)  
    What can we do?
@@ -35,12 +35,11 @@ TODO
    > When writing the law, must consult sex workers and listen to what they need.
 
    Current Status:
-   > Mentioned in the show: (2022/02/27)
-   > - New York recently repealed its loitering law. ([source](https://edition.cnn.com/2021/02/02/us/new-york-trans-ban-prostitution-law-repeal/index.html))
-   > - California seems poised to do the same. ([source](https://edition.cnn.com/2021/03/09/us/california-walking-while-trans-law/index.html))
-   > - Prosecutors have announced they won't pursue certain prostitution cases ([source](https://edition.cnn.com/2021/03/27/us/baltimore-prosecute-prostitution-drug-possession/index.html)) and will dismiss thousands of pending ones. ([source](https://www.npr.org/2021/04/21/989588072/a-relic-and-burden-manhattan-district-attorney-to-stop-prosecuting-prostitution))
-   >
-   > No further news yet. (Last Updated: 2022/02/27)
+   - Mentioned in the show: (2022/02/27)
+     - New York recently repealed its loitering law. ([source](https://edition.cnn.com/2021/02/02/us/new-york-trans-ban-prostitution-law-repeal/index.html))
+     - California seems poised to do the same. ([source](https://edition.cnn.com/2021/03/09/us/california-walking-while-trans-law/index.html))
+     - Prosecutors have announced they won't pursue certain prostitution cases ([source](https://edition.cnn.com/2021/03/27/us/baltimore-prosecute-prostitution-drug-possession/index.html)) and will dismiss thousands of pending ones. ([source](https://www.npr.org/2021/04/21/989588072/a-relic-and-burden-manhattan-district-attorney-to-stop-prosecuting-prostitution))
+   - No further news yet. (Last Updated: 2022/02/27)
 
 3. [Wrongful Convictions](https://youtu.be/kpYYdCzTpps) (2022/03/06)  
    What can we do?
@@ -53,7 +52,7 @@ TODO
    > Governors who use their pardon power to undo the state's mistakes.
 
    Current Status:
-   > No news yet. (Last Updated: 2022/03/06)
+   - No news yet. (Last Updated: 2022/03/06)
 
 4. [Tickets](https://youtu.be/-_Y7uqqEFnY) (2022/03/13)  
    What can we do?
@@ -62,9 +61,19 @@ TODO
    > Artists can make their tickets non-transferable, or restrict selling tickets with no additional fees and not for profit.
 
    Current Status:
-   > No news yet. (Last Updated: 2022/03/13)
+   - No news yet. (Last Updated: 2022/03/13)
+
+## Uncategorized Episodes
+
+- [Daylight Saving Time - How Is This Still A Thing?](https://youtu.be/br0NW9ufUUw) (2015/03/08)
+
+   Current Status:
+   - [[CNN] Senate passes bill that would make Daylight Saving Time permanent](https://edition.cnn.com/2022/03/15/politics/senate-daylight-saving-time-permanent/index.html) (2022/03/14)
+   - No further news yet (Last Updated: 2022/03/14)
+
+- TODO: Add more episodes
 
 ## Other Links
 
-- [Last Week Tonight with John Oliver on Wikipedia](https://en.wikipedia.org/wiki/Last_Week_Tonight_with_John_Oliver)
-- [List of Last Week Tonight with John Oliver episodes on Wikipedia](https://en.wikipedia.org/wiki/List_of_Last_Week_Tonight_with_John_Oliver_episodes)
+- [[Wikipedia] Last Week Tonight with John Oliver](https://en.wikipedia.org/wiki/Last_Week_Tonight_with_John_Oliver)
+- [[Wikipedia] List of Last Week Tonight with John Oliver episodes](https://en.wikipedia.org/wiki/List_of_Last_Week_Tonight_with_John_Oliver_episodes)
