@@ -26,7 +26,18 @@ TODO
 2. [Sex Work](https://youtu.be/-gd8yUptg0Q) (2022/02/27)  
    TODO
 3. [Wrongful Convictions](https://youtu.be/kpYYdCzTpps) (2022/03/06)  
-   TODO
+   What can we do?
+   > Get rid of [The Antiterrorism and Effective Death Penalty Act of 1996 (AEDPA)](https://en.wikipedia.org/wiki/Antiterrorism_and_Effective_Death_Penalty_Act_of_1996) as soon as possible.
+   >
+   > Address the many factors that lead to wrongful convictions
+   >
+   > Make sure we've elected prosecutors who will undertake conviction intergrity reviews.
+   >
+   > Governors who use their pardon power to undo the state's mistakes.
+
+   Current Status: (Last Updated: 2022/03/06)
+   > No news yet.
+
 4. [Tickets](https://youtu.be/-_Y7uqqEFnY) (2022/03/13)  
    What can we do?
    > Congress could inject transparency by passing laws that require sites to disclose their fees upfront along with the identitiy of the seller on resale sites.
@@ -34,7 +45,7 @@ TODO
    > Artists can make their tickets non-transferable, or restrict selling tickets with no additional fees and not for profit.
 
    Current Status: (Last Updated: 2022/03/13)
-   > Issue not resolved yet.
+   > No news yet.
 
 ## Other Links
 
