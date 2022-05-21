@@ -47,12 +47,11 @@ TODO
    >
    > Address the many factors that lead to wrongful convictions
    >
-   > Make sure we've elected prosecutors who will undertake conviction intergrity reviews.
-   >
-   > Governors who use their pardon power to undo the state's mistakes.
+   > Make sure we've elected prosecutors who will undertake conviction intergrity reviews and governors who use their pardon power to undo the state's mistakes.
 
    Current Status:
-   - No news yet. (Last Updated: 2022/03/06)
+   - [[BBC] Melissa Lucio: First Texas execution of Hispanic woman stayed](https://www.bbc.com/news/world-us-canada-61220975) (2022/04/26)
+   - No further news yet. (Last Updated: 2022/05/21)
 
 4. [Tickets](https://youtu.be/-_Y7uqqEFnY) (2022/03/13)  
    What can we do?
