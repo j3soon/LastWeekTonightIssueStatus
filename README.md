@@ -64,7 +64,12 @@ TODO
 
 5. (TODO)
 6. (TODO)
-7. (TODO)
+7. [Data Brokers](https://youtu.be/wqn3gR1WTcA) (2022/04/10)
+   What can we do?
+   > When congress's own privacy is at risk, they somehow find a way to act. And it also seems like they're not entirely aware just how easy it is for anyone to get their personal information. (John demonstrated a proof of concept that the congress's own privacy is indeed at risk.)
+
+   Current Status:
+   - No news yet. (Last Updated: 2022/04/10)
 8. (TODO)
 9. (TODO)
 10. (TODO)
@@ -74,7 +79,7 @@ TODO
     > The FTC should tighten their rules on all franchises, and make disclosing financial performance mandatory, that would force companies to give a much fuller picture to any potential investors of what they are getting into.
 
     Current Status:
-    - No news yet. (Last Updated: 2022/06/14)
+    - No news yet. (Last Updated: 2022/05/22)
 13. (TODO)
 14. [Tech Monopolies](https://youtu.be/jXf04bhcjbg) (2022/06/12)
     What can we do?
@@ -85,7 +90,7 @@ TODO
     > If they don't pass in the next month or so, they're not likely to pass at all.
 
     Current Status:
-    - No news yet. (Last Updated: 2022/06/14)
+    - No news yet. (Last Updated: 2022/06/12)
 ## Uncategorized Episodes
 
 - [Daylight Saving Time - How Is This Still A Thing?](https://youtu.be/br0NW9ufUUw) (2015/03/08)
