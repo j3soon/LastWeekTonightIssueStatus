@@ -62,6 +62,25 @@ TODO
    Current Status:
    - No news yet. (Last Updated: 2022/03/13)
 
+5. (TODO)
+6. (TODO)
+7. (TODO)
+8. (TODO)
+9. (TODO)
+10. (TODO)
+11. (TODO)
+12. (TODO)
+13. (TODO)
+14. [Tech Monopolies](https://youtu.be/jXf04bhcjbg) (2022/06/12)
+    What can we do?
+    > There are two bills before congress right now:
+    > - the [Open App Markets Act](https://en.wikipedia.org/wiki/Open_App_Markets_Act) (OAMA), and
+    > - the [American Innovation and Choice Online Act](https://en.wikipedia.org/wiki/American_Innovation_and_Choice_Online_Act) (AICO).
+    >
+    > If they don't pass in the next month or so, they're not likely to pass at all.
+
+    Current Status:
+    - No news yet. (Last Updated: 2022/06/14)
 ## Uncategorized Episodes
 
 - [Daylight Saving Time - How Is This Still A Thing?](https://youtu.be/br0NW9ufUUw) (2015/03/08)
