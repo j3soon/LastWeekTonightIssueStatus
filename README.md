@@ -69,7 +69,12 @@ TODO
 9. (TODO)
 10. (TODO)
 11. (TODO)
-12. (TODO)
+12. [Subway](https://youtu.be/jDdYFhzVCDM) (2022/05/22)
+    What can we do?
+    > The FTC should tighten their rules on all franchises, and make disclosing financial performance mandatory, that would force companies to give a much fuller picture to any potential investors of what they are getting into.
+
+    Current Status:
+    - No news yet. (Last Updated: 2022/06/14)
 13. (TODO)
 14. [Tech Monopolies](https://youtu.be/jXf04bhcjbg) (2022/06/12)
     What can we do?
